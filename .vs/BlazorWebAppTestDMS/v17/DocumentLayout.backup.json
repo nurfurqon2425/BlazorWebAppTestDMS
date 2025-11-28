@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\pages\\risk.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\pages\\risk.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\data\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\data\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13761C95-D4B8-4CAA-8F85-97162A7D7ACD}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\BlazorWebAppTestDMS.Client.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13761C95-D4B8-4CAA-8F85-97162A7D7ACD}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\BlazorWebAppTestDMS.Client.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13761C95-D4B8-4CAA-8F85-97162A7D7ACD}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\BlazorWebAppTestDMS.Client.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13761C95-D4B8-4CAA-8F85-97162A7D7ACD}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\BlazorWebAppTestDMS.Client.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13761C95-D4B8-4CAA-8F85-97162A7D7ACD}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\BlazorWebAppTestDMS.Client.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13761C95-D4B8-4CAA-8F85-97162A7D7ACD}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\BlazorWebAppTestDMS.Client.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|c:\\users\\furqon\\source\\repos\\blazorwebapptestdms\\blazorwebapptestdms\\blazorwebapptestdms\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E74ECC4-16D8-4586-B477-315E21907F9C}|BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj|solutionrelative:blazorwebapptestdms\\blazorwebapptestdms\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T12:35:07.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:54:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:54:25.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Program.cs",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:51:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataAccess.cs",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataAccess.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:10:13.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Risk.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Risk.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Risk.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Risk.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Risk.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAKIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:57:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\App.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T07:51:47.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:59:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataModel.cs",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataModel.cs",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataModel.cs",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Data\\DataModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:58:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T12:48:28.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlazorWebAppTestDMS",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T12:49:42.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Program.cs",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:51:52.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T07:51:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\appsettings.json",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T08:12:06.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T12:07:57.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:56:40.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Furqon\\source\\repos\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorWebAppTestDMS\\BlazorWebAppTestDMS\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:54:23.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

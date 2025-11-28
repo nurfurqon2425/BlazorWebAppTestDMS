@@ -1,0 +1,166 @@
+﻿@page "/risk"
+@attribute [StreamRendering]
+@inject IConfiguration configuration
+
+<PageTitle>Risk</PageTitle>
+
+<MudPaper Height="2rem" Width="100%" Style="background-color:yellow;">
+    <MudText Align="Align.Center">Informasi Aplikasi</MudText>
+</MudPaper>
+<MudPaper Height="10rem" Width="100%" Style="background-color:white;">
+    <MudStack Row Justify="Justify.SpaceBetween">
+        <MudCard Style="height:100%; width:30%;">
+            <MudTextField T="string" Label="No.Aplikasi"></MudTextField>
+            <MudTextField T="string" Label="Nama"></MudTextField>
+            <MudTextField T="string" Label="Tempat Lahir"></MudTextField>
+        </MudCard>
+        <MudCard Style="height:100%; width:30%;">
+            <MudDatePicker Label="Tanggal Lahir" DateFormat="dd-MM-yyyy"></MudDatePicker>
+            <MudSelect T="string" Label="Jenis Kelamin">
+                <MudSelectItem T="string" Value="@("Laki-laki")">
+                    Laki-laki
+                </MudSelectItem>
+                <MudSelectItem T="string" Value="@("Perempuan")">
+                    Perempuan
+                </MudSelectItem>
+            </MudSelect>
+            <MudNumericField T="int" Label="Kode Pos"></MudNumericField>
+        </MudCard>
+        <MudCard Style="height:100%; width:40%;">
+            <MudTextField T="string" Lines="6" Label="Alamat"></MudTextField>            
+        </MudCard>
+    </MudStack>
+    
+</MudPaper>
+
+<MudTable Items="@groups">
+    <HeaderContent>
+        <MudTh Style="background-color:yellow">GROUP</MudTh>
+        <MudTh Style="background-color:orange">BOBOT B</MudTh>
+        <MudTh Style="background-color:yellow">GROUP ITEM</MudTh>
+        <MudTh Style="background-color:orange">BOBOT D</MudTh>
+        <MudTh Style="background-color:yellow">ITEM</MudTh>
+        <MudTh Style="background-color:orange">BOBOT F</MudTh>
+        <MudTh Style="background-color:yellow">BOBOT F*D</MudTh>
+        <MudTh Style="background-color:yellow">SUM H * BOBOT B</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd Style="background-color:lightgray" DataLabel="GROUP">@context.Name</MudTd>
+        <MudTd Style="background-color:orange" DataLabel="BOBOT B">@context.Weight.ToString("P0")</MudTd>
+        <MudTd DataLabel="GROUP ITEM">
+            <MudStack>
+                @foreach (var item in context.GroupItems)
+                {
+                    <MudCard Square Elevation="0">
+                        <MudText>@item.Name</MudText>
+                    </MudCard>
+                }
+            </MudStack>            
+        </MudTd>
+        <MudTd DataLabel="BOBOT D" Style="background-color:orange">
+            <MudStack>
+                @foreach (var item in context.GroupItems)
+                {
+                    <MudCard Square Elevation="0" Style="background-color:orange">
+                        <MudText>@item.Weight.ToString("P0")</MudText>
+                    </MudCard>
+                }
+            </MudStack>            
+        </MudTd>
+        <MudTd DataLabel="ITEM">
+            <MudStack>
+                @foreach (var groupItem in context.GroupItems)
+                {
+                    <MudCard Square Elevation="0">
+                        <MudSelect @bind-Value="@groupItem.selectedItem" Placeholder="Select Item">
+                            @foreach (var item in @groupItem.Items)
+                            {
+                                <MudSelectItem Value="@item.Id">
+                                    <MudText>@item.Name</MudText>
+                                </MudSelectItem>
+                            }
+                        </MudSelect>
+                    </MudCard>
+                }
+            </MudStack>
+            
+        </MudTd>
+
+        <MudTd DataLabel="BOBOT F" Style="background-color:orange">
+            <MudStack>
+                @foreach (var item in context.GroupItems)
+                {
+                    item.weightSum = (int)(item.Items.Where(x => x.Id == item.selectedItem).Select(x => x.Weight).FirstOrDefault() * 100);
+                    <MudCard Square Elevation="0" Style="background-color:orange">
+                        <MudText Align="Align.Right">@item.weightSum</MudText>
+                    </MudCard>
+                }
+            </MudStack>
+        </MudTd>
+        <MudTd DataLabel="BOBOT F*D">
+            <MudStack>
+                @foreach (var item in context.GroupItems)
+                {
+                    item.weightProportion = item.Items.Where(x => x.Id == item.selectedItem).Select(x => x.Weight).FirstOrDefault() * 100 * item.Weight;
+                    <MudCard Square Elevation="0">
+                        <MudText Align="Align.Right">@item.weightProportion.ToString("F2")</MudText>
+                    </MudCard>
+                }
+            </MudStack>
+        </MudTd>
+        <MudTd DataLabel="SUM H * BOBOT B">
+            @{
+                context.sum = context.GroupItems.Select(x => x.weightProportion * context.Weight).Sum();
+            }
+            <MudText Align="Align.Right">@context.sum.ToString("F2")</MudText>
+        </MudTd>
+        
+    </RowTemplate>
+</MudTable>
+<MudStack Row Spacing="0">
+    
+    @{
+        decimal sumAll = @groups.Select(x => x.sum).Sum();
+        string summary = string.Empty;
+        string color = string.Empty;
+        if (sumAll > 70)
+        {
+            summary = "LOW RISK";
+            color = "green";
+        }
+        else if(sumAll > 55)
+        {
+            summary = "MEDIUM RISK";
+            color = "orange";
+        }
+        else
+        {
+            summary = "HIGH RISK";
+            color = "red";
+        }
+        <MudText Align="Align.Center" Style=@($"width:90%; background-color:{color};")>
+            @summary
+        </MudText>
+        <MudText Align="Align.Right" Style=@($"width:10%;background-color:{color}; padding-right: 1rem;")>
+            @sumAll.ToString("F2")
+        </MudText>
+    }
+</MudStack>
+
+<br />
+
+
+@code {
+    private List<Data.DataModel.Group> groups = new();
+    // private List<Data.DataModel.GroupItemFlattend> flattends = new();
+    private int selectedItem { get; set; } = 0;    
+
+    protected override async Task OnInitializedAsync()
+    {
+        Data.DataAccess dataAccess = new Data.DataAccess(configuration);
+
+        groups = await dataAccess.GetDataAsync();
+        // flattends = await dataAccess.GetDataFlattendAsync();
+    }
+
+}
